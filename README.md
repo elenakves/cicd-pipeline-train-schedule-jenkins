@@ -17,4 +17,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 TESTING CI WITH JENKINS
 SECURITY GROUP 8080 TO ALL
 SECURITY GROUP HTTP/HTTPS TO MYIP
+jENKINS SECURITY GROUP --> ALL TO MY IP ONLY
 
